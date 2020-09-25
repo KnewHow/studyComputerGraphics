@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(Task-sphere)
+project(Task-Quad)
 
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 set(CMAKE_SUPPRESS_REGENERATION ON)
