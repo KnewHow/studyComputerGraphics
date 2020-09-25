@@ -1,7 +1,7 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include<iostream>
-#include "include/Shader.h"
+#include "Shader.h"
 #include<vector>
 
 const unsigned int SCREEN_WIDTH = 512;
